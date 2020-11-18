@@ -4,13 +4,15 @@ My name is <b>Sedat</b>, I'm a <b>Software Engineer</b>.
 
 #### About
 
-I recently graduated from Bilkent University class of 2020. I have worked in both sides of the stack using different tools in my internships during my time at Bilkent. I have experience using Go, Java and Javascript on the backend and I'm experienced using HTML, CSS, React, and as well as vanilla JS on the front-end. 
+I recently graduated from Bilkent University class of 2020. I have worked in both sides of the stack using different tools in my internships during my time at Bilkent. I have experience using Go, Java and Typescript/Javascript on the backend and HTML, CSS, and React on the front-end. 
 
 - 🔭 I'm currently working as a Software Engineer at Soostone responsible for full-stack development using Javascript, AWS and the serverless framework.
 - 📫 How to reach me: https://sedat.dev, [linkedin](https://www.linkedin.com/in/sedatcyalcin), [twitter](https://twitter.com/SedatCanYalcin)
 
 #### My stack
+ ![TS](https://img.icons8.com/color/48/000000/typescript.png)
  ![JS](https://img.icons8.com/color/48/000000/javascript.png)
+ ![Java](https://icons8.com/icon/13679/java)
  ![React](https://img.icons8.com/office/48/000000/react.png)
  ![Node](https://img.icons8.com/color/48/000000/nodejs.png)
  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
