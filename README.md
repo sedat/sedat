@@ -18,6 +18,6 @@ I recently graduated from Bilkent University class of 2020. I have worked in bot
  ![Node](https://img.icons8.com/color/48/000000/nodejs.png)
  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
- ![SQL](https://img.icons8.com/metro/48/000000/sql.png)
+ ![SQL](https://img.icons8.com/metro/48/000000/mysql.png)
  
  
