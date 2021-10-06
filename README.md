@@ -12,12 +12,10 @@ I recently graduated from Bilkent University class of 2020. I have worked in bot
 #### My stack
  ![TS](https://img.icons8.com/color/48/000000/typescript.png)
  ![JS](https://img.icons8.com/color/48/000000/javascript.png)
+ ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
  ![Golang](https://img.icons8.com/color/48/000000/golang.png)
  ![React](https://img.icons8.com/office/48/000000/react.png)
- ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
  ![SQL](https://img.icons8.com/metro/48/000000/mysql.png)
- 
- 
