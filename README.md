@@ -10,10 +10,8 @@ I recently graduated from Bilkent University class of 2020. I have worked in bot
 - 📫 How to reach me: https://sedat.dev, [linkedin](https://www.linkedin.com/in/sedatcyalcin), [twitter](https://twitter.com/SedatCanYalcin)
 
 #### My stack
- ![TS](https://img.icons8.com/color/48/000000/typescript.png)
  ![JS](https://img.icons8.com/color/48/000000/javascript.png)
  ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
  ![Golang](https://img.icons8.com/color/48/000000/golang.png)
  ![React](https://img.icons8.com/office/48/000000/react.png)
  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
