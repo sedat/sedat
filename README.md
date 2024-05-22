@@ -12,4 +12,3 @@ My name is <b>Sedat</b>, I'm a <b>Software Engineer</b>.
  ![Golang](https://img.icons8.com/color/48/000000/golang.png)
  ![React](https://img.icons8.com/office/48/000000/react.png)
  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
- ![SQL](https://img.icons8.com/metro/48/000000/mysql.png)
