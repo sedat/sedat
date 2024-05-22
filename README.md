@@ -8,7 +8,7 @@ My name is <b>Sedat</b>, I'm a <b>Software Engineer</b>.
 #### My stack
  ![JS](https://img.icons8.com/color/48/000000/javascript.png)
  ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
- ![Java](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000)
+ ![Java](https://img.icons8.com/?size=48&id=13679&format=png&color=000000)
  ![Golang](https://img.icons8.com/color/48/000000/golang.png)
  ![React](https://img.icons8.com/office/48/000000/react.png)
  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
