@@ -2,7 +2,7 @@
 
 My name is <b>Sedat</b>, I'm a <b>Software Engineer</b>.
 
-- 🔭 I'm currently working as a Software Engineer at Soostone responsible for full-stack development using Javascript, AWS and the serverless framework.
+- 🔭 I'm currently working as a Software Engineer at Klarna.
 - 📫 How to reach me: https://sedat.dev, [linkedin](https://www.linkedin.com/in/sedatcyalcin), [twitter](https://twitter.com/SedatCanYalcin)
 
 #### My stack
