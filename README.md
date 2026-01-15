@@ -3,7 +3,7 @@
 My name is <b>Sedat</b>, I'm a <b>Software Engineer</b>.
 
 - 🔭 I'm currently working as a Software Engineer at Klarna.
-- 📫 How to reach me: https://sedat.dev, [linkedin](https://www.linkedin.com/in/sedatcyalcin), [twitter](https://twitter.com/SedatCanYalcin)
+- 📫 How to reach me: https://sedat.dev, [linkedin](https://www.linkedin.com/in/sedatcyalcin), [twitter](https://twitter.com/SedatCanYalcin), [youtube](https://www.youtube.com/@canyalcintv)
 
 #### My stack
  ![JS](https://img.icons8.com/color/48/000000/javascript.png)
